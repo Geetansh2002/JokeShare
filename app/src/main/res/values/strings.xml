@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JokeShare</string>
+    <string name="plese_enter_your_name">Plese Enter your name</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="name">Name</string>
+    <string name="start">Start</string>
+    <string name="next">Next...</string>
+    <string name="share">Share</string>
+</resources>
